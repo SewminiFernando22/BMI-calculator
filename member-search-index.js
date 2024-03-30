@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"BmiCalculator","l":"BmiCalculator()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"BmiCalculator","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
